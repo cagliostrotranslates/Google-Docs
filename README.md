@@ -1,6 +1,6 @@
 # Google-Docs
 
-Este repositorio contiene el código fuente de LNReader.
+Este repositorio contiene el código fuente de Google-Docs.
 
 Puedes acceder a los archivos adicionales en la siguiente carpeta de Google Drive:
 
